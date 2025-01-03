@@ -178,10 +178,13 @@ class KISTIDataProcessor:
         )
         
         # FAISS 벡터 스토어 생성
-        vector_stores['faiss'] = FAISS.from_documents(
+        faiss_store = FAISS.from_documents(
             documents=documents,
-            embedding=self.embeddings,
+            embedding=self.embeddings
         )
+        # FAISS 저장
+        faiss_store.save_local("./faiss_index")
+        vector_stores['faiss'] = faiss_store
         
         # Pinecone 설정
         if os.getenv("PINECONE_API_KEY"):
