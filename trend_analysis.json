@@ -1,0 +1,204 @@
+{
+  "records": [
+    {
+      "CN": "295",
+      "Title": "BCI",
+      "RelatedKeywords": "[뇌-컴퓨터 인터페이스, 브레인-컴퓨터 인터페이스, 신경 인터페이스, 뇌-기계 인터페이스, Brain-Computer Interface, Neural Interfaces, Neuro-computer Interface, Brain-machine Interface, 뉴럴링크, 딥러닝, 가상현실, EEG, motor imagery, Neuralinks, Deep Learning, Virtual Reality]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202412240001&fileSn=4",
+      "PublDate": "20241223",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=295",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=295",
+      "Definition": "뇌-컴퓨터 인터페이스(영어: brain–computer interface, BCI)는 뇌와 외부 장치간의 직접적인 상호작용 방식이다. 양방향 정보 전달을 가능케 한다는 점에서 신경제어기술(neuromodulation)과 차이가 있다. 인간의 인지능력이나 감각-운동기능을 탐구하고, 뇌의 각 부위에 대한 기능을 지도로 만들며, 보조, 증진, 치유하는 데에도 관련이 있다",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/%EB%87%8C-%EC%BB%B4%ED%93%A8%ED%84%B0_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4"
+    },
+    {
+      "CN": "216",
+      "Title": "마이데이터",
+      "RelatedKeywords": "[My Data, 빅데이터, 개인정보, Data Economy, 개인정보보호법, 블록체인, Blockchain, 데이터 포터빌리티, 데이터 브로커, 데이터 공유, Artificial Intelligence, Big Data, Personal Information, Privacy Laws, Data Portability, Data Brokers, Data Sharing]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202409240001&fileSn=4",
+      "PublDate": "20240923",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=216",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=216",
+      "Definition": "마이데이터(MyData)는 개인이 행정, 금융거래, 의료, 통신, 교육 등의 서비스를 이용하면서 만들어진 정보에 대하여 정보주체가 접근하고, 저장하고, 활용하는 등의 능동적인 의사결정을 하는 서비스이다. 예를 들어 정보 주체가 개인정보를 본인 또는 제3자에게 전송 요구할 수 있도록 함으로써 신용평가, 자산관리, 건강관리 등 데이터 기반 서비스에 주도적으로 활용하게 한다.",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%EB%8D%B0%EC%9D%B4%ED%84%B0"
+    },
+    {
+      "CN": "213",
+      "Title": "휴머노이드 로봇",
+      "RelatedKeywords": "[인간형 로봇, 인간 모양 로봇, Humanoid Robots, Human-Shaped Robots, 자동제어공학, 로봇제조, 산업용로봇제조, 인공지능, 머신러닝, 센서, 액추에이터, Automatic Control Engineering, Robotics Manufacturing, Industrial Robotics Manufacturing, Artificial Intelligence, Machine Learning, Sensors, Actuators]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202408270004&fileSn=4",
+      "PublDate": "20240826",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=213",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=213",
+      "Definition": "휴머노이드 로봇(Humanoid robot)은 인간의 신체 형태를 닮은 로봇이다. 디자인은 인간 도구 및 환경과의 상호 작용과 같은 기능적 목적, 이족보행 연구와 같은 실험 목적 또는 기타 목적을 위한 것일 수 있다. 일반적으로 휴머노이드 로봇에는 몸통, 머리, 두 개의 팔, 두 개의 다리가 있지만 일부 휴머노이드 로봇은 예를 들어 허리 위까지 신체의 일부만 복제할 수 있다. 일부 휴머노이드 로봇에는 눈이나 입과 같은 인간의 얼굴 특징을 복제하도록 설계된 머리도 있다. 안드로이드 (로봇)는 인간과 미학적으로 유사하게 만들어진 인간형 로봇이다.",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C_%EB%A1%9C%EB%B4%87"
+    },
+    {
+      "CN": "200",
+      "Title": "뉴로모픽 컴퓨팅",
+      "RelatedKeywords": "[Neuromorphic Computing, Neuromorphic Engineering, Artificial Intelligence, Memristor, Neuromorphic, Electronics, Neuromorphic Architecture, Artificial neural networks, Spiking Neuron Networks, Neuroscience, Machine learning, Deep learning]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202407160003&fileSn=5",
+      "PublDate": "20240715",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=200",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=200",
+      "Definition": "뉴로모픽 엔지니어링(neuromorphic engineering, 뉴로모르픽 엔지니어링), 뉴로모픽 컴퓨팅(neuromorphic computing, 뉴로모르픽 컴퓨팅)은 1980년대 말에 카버 미드(Carver Mead)가 개발한 개념의 하나로, 신경계에 존재하는 신경생물학적 구조를 모방하기 위해 전자 아날로그 회로를 포함하는 초고밀도 집적 회로(VLSI) 시스템의 이용을 기술하고 있다. 최근에 \"뉴로모픽\"이라는 용어는 아날로그, 디지털, 또 이 둘을 혼합한 VLSI, 그리고 신경계 모델을 구현하는 소프트웨어 시스템(지각, 운동 제어, 다감각 집적화를 위해)을 기술하기 위해 사용되고 있다. 하드웨어 수준의 뉴로모픽 컴퓨팅의 구현은 산화물 기반의 멤리스터 한계 스위치, 트랜지스터.를 통해 실현할 수 있다. 뉴로모픽 엔지니어링의 주요 개념은 개개의 뉴런, 회로, 애플리케이션의 형태론, 전반적인 아키텍처가 어떻게 원하는 연산을 수행하는지, 정보 표현에 어떻게 영향을 주는지, 강인성이 어떻게 악영향에 대해 영향을 미치는지, 어떻게 학습과 개발이 통합되는지, 어떻게 국소적 변화에 대해 순응하는지, 어떻게 점진적 변화를 가능케 하는지를 이해하는 것이다. 뉴로모픽 엔지니어링은 물리적인 아키텍처와 설계 원칙이 생물학적 신경계에 기반을 두는 시각계, 머리눈 시스템, 청각 프로세서, 완전자동 로봇 등 인공신경계를 설계하기 위해 생물학, 물리학, 수학, 컴퓨터 과학, 전자공학의 영감을 받는 학제간 주제이다.",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/%EB%89%B4%EB%A1%9C%EB%AA%A8%ED%94%BD_%EC%BB%B4%ED%93%A8%ED%8C%85"
+    },
+    {
+      "CN": "198",
+      "Title": "드론",
+      "RelatedKeywords": "[무인항공기, UAV, 무인비행체, Drones, 무인기, 인공지능, 딥러닝, UAM, 블록체인, 정사영상, Quadcopter, FPV, Gimbal, Payload, Artificial intelligence, Deep learning, Blockchain, Orthoimage, Unmanned Aerial Vehicle Manufacturing, Radio-controlled aircraft manufacturing]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202406200002&fileSn=4",
+      "PublDate": "20240619",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=198",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=198",
+      "Definition": "무인항공기(無人航空機, 영어: unmanned aerial vehicle, UAV) 또는 무인기,  통칭 드론(영어: drone)은 지상에 있는 파일럿(drone pilot)이 무선 조종하는 방식으로 사전에 프로그램된 경로에 따라 자동 또는 반자동으로 날아가는 항공기이자 '자율비행'이 가능한 멀티로터(멀티콥터)의 일종이다. UAV 본체, 탑재임무장비(airborne data relay system, ADRS), 지상통제장비(GCS), 통신장비(데이터 링크), 지원장비 및 운용인력의 전체 시스템을 통칭하는 UAS(unmanned aircraft system)의 구성요소 중 하나다. 무인항공기와 모형항공기는 자동비행장치가 비행체에 탑재되어 있는가 여부로 구분된다. 즉, 오토파일럿 시스템이 포함되면 크기가 작더라도 무인항공기이고, 포함되어 있지 않다면 크기에 상관없이 모두 모형항공기라고 한다. 독립된 체계 또는 우주/지상체계들과 연동시켜 운용한다. 활용 분야에 따라 다양한 장비(광학, 적외선, 레이다 센서 등)를 탑재하여 감시, 정찰, 정밀공격무기의 유도, 통신/정보중계, 전자공격·전자보호(EA·EP), Decoy 등의 임무를 수행하며, 폭약을 장전시켜 정밀무기 자체로도 개발되어 실용화되고 있어, 향후 미래의 주요 군사력 수단으로 주목을 받고 있다. 최근 몇 년간 빠른 성장이 이루어지고 있는 추세다. 2017년 6월 아마존은 드론 이착륙 센터에 대한 특허 출원을 하기도 했다. 참고로, 수중에서 활동하는 무인 잠수정 또는 수중 드론(UUV 또는 underwater drone)도 있다.",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/%EB%93%9C%EB%A1%A0"
+    },
+    {
+      "CN": "196",
+      "Title": "스마트팜",
+      "RelatedKeywords": "[Smart Farm Systems, Smart Farm Technology, Smart Farm Solutions, Smart Farm Services, 식물공장, 수경재배, IoT, 작물재배지원서비스, Plant Factory, Hydroponics, Deep learning, Internet of Things, Vertical Farm, Big Data, ICT, AI]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202406170001&fileSn=6",
+      "PublDate": "20240614",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=196",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=196",
+      "Definition": "비닐하우스·유리온실·축사 등에 ICT를 접목하여 원격·자동으로 작물과 가축의 생육환경을 적정하게 유지·관리할 수 있는 농장 작물 생육정보와 환경정보에 대한 데이터를 기반으로 최적 생육환경을 조성하여, 노동력·에너지·양분 등을 종전보다 덜 투입하고도 농산물의 생산성과 품질 제고 가능",
+      "DefinitionSourceURL": "https://www.smartfarmkorea.net/contents/view.do?menuId=M01010102"
+    },
+    {
+      "CN": "189",
+      "Title": "AI보안",
+      "RelatedKeywords": "[인공지능 보안, AI Security, 인공지능 보호, AI Protection, Protecting AI, Artificial Intelligence, IoT, Machine Learning, Big data, Deep learning, Cybersecurity, Encryption]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202405280001&fileSn=4",
+      "PublDate": "20240527",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=189",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=189",
+      "Definition": "",
+      "DefinitionSourceURL": ""
+    },
+    {
+      "CN": "180",
+      "Title": "인공지능 반도체",
+      "RelatedKeywords": "[Artificial Intelligence Semiconductor, AI 반도체, AI, 뉴모로픽, 전자공학, 딥러닝, Pneumorphic, AI Semiconductors, Deep Learning, AI Processor, Big Data]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202404220003&fileSn=4",
+      "PublDate": "20240422",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=180",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=180",
+      "Definition": "인공지능 반도체(AI semiconductor)는 AI 연산 실행에 특화된 시스템 반도체를 말한다. 연산 기능을 담당하는 비메모리 프로세서는 중앙 처리 장치(CPU: Central Processing Unit), 그래픽 처리 장치(GPU: Graphics Processor Unit), 신경망 처리 장치(NPU: Neural Processing Unit), 신소자를 활용해 AI 연산 코어의 집적도와 전력 효율성을 높인 신경 모방 칩(neuromorphic chip) 등으로 나뉜다. AI에 특화된 NPU와 신경 모방 칩이 AI 반도체에 해당한다. 연산과 기억(메모리) 기능을 통합하는 지능형 반도체(PIM: Processing-In-Memory)도 AI 반도체에 해당한다. 최근 AI 서비스가 생활과 산업 전반에 빠르게 확대되면서 처리해야 하는 데이터 양이 기하급수로 증가하고 있다. 다수의 기업은 GPU를 활용해 AI 데이터센터를 운영하고 있지만, 가격이 비싸고 전력 사용이 많아서 운영 비용에 부담을 느낀다. AI 반도체는 GPU와 대비하면 성능이 우수하고 가격이 저렴해 데이터 처리 성능을 높이면서도 데이터센터 투자 비용을 줄일 수 있을 것으로 기대된다. 소품종 대량 생산을 하는 메모리 반도체와는 달리 AI의 역할에 맞는 반도체를 맞춤형으로 개발해야 해 다품종 소량 생산에 특화됐다는 점도 특징이다. 엔비디아, 인텔, 삼성전자 등 반도체 기업은 물론 구글과 SK텔레콤 등 기업도 AI 반도체 시장에 도전하고 있다.",
+      "DefinitionSourceURL": "https://terms.tta.or.kr/dictionary/dictionaryView.do?word_seq=191777-1"
+    },
+    {
+      "CN": "178",
+      "Title": "디지털 헬스케어",
+      "RelatedKeywords": "[Digital Healthcare, 모바일 헬스케어, 스마트 헬스케어, 인터랙션, Mobile Healthcare, Smart Healthcare, Interactions, 원격의료, Wearable Device, AI, Telemedicine]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202404160006&fileSn=4",
+      "PublDate": "20240415",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=178",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=178",
+      "Definition": "디지털 헬스는 디지털 치료 프로그램, 건강, 의료, 생활, 사회와 기술을 접목하여 의료 서비스 제공의 효율성을 높이고 의료를 보다 개인화되고 정밀하게 만드는 분야입니다. 정보 및 커뮤니케이션 기술을 사용하여 의료 서비스를 받는 사람들이 직면한 건강 문제와 문제를 보다 개인화되고 정확한 방식으로 이해하고 사회적 처방을 내릴 수 있도록 돕습니다. 디지털 헬스의 정의와 그 의미는 건강 및 의료 정보학의 정의와 여러 면에서 겹칩니다. 1990년 이후 전 세계적으로 전자 의료 기록의 채택이 증가하고 있으며, 이는 보편적 의료 서비스의 존재와 밀접한 관련이 있습니다. 디지털 헬스는 의료, 공학, 사회과학, 공중보건, 보건 경제학, 데이터 관리 등 다양한 전문 지식을 갖춘 임상의, 연구원, 과학자 등 많은 이해관계자가 참여하는 다학제적 영역으로, 디지털 헬스 기술에는 원격의료, 웨어러블 기기, 증강현실, 가상현실 등 하드웨어 및 소프트웨어 솔루션과 서비스가 모두 포함됩니다. 일반적으로 디지털 헬스는 의료 시스템을 상호 연결하여 계산 기술, 스마트 기기, 계산 분석 기술, 커뮤니케이션 미디어의 사용을 개선하여 의료 전문가와 환자가 질병과 건강 위험을 관리하고 건강과 웰빙을 증진하는 데 도움을 줍니다.디지털 헬스 플랫폼은 신속하고 저렴한 커뮤니케이션을 가능하게 하지만, 비평가들은 개인 건강 데이터의 잠재적인 프라이버시 침해와 디지털 헬스가 사회적 다수와 소수 그룹 간의 건강과 디지털 격차를 증가시켜 디지털 헬스 시스템 사용에 대한 불신과 주저로 이어질 수 있는 역할을 경고하고 있습니다.",
+      "DefinitionSourceURL": ""
+    },
+    {
+      "CN": "171",
+      "Title": "딥페이크",
+      "RelatedKeywords": "[가짜 영상, 인공지능 합성 영상, 딥페이크 비디오, 딥페이크 영상, 인공지능 영상, Deepfake, AI Video, Fake Videos, AI Composite Video, Deepfake Video, 인공지능, Artificial Intelligence, Deep Learning]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202403120003&fileSn=4",
+      "PublDate": "20240311",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=171",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=171",
+      "Definition": "딥페이크(Deepfake)란, 인공지능 기술인 딥러닝(deep learning)과 ‘가짜’를 의미하는 단어인 페이크(fake)의 합성어로, 인공지능 기술을 이용하여 진위 여부를 구별하기 어려운 가짜 이미지나 영상물을 뜻한다. 딥페이크라는 단어가 등장한 시기는 2017년으로, 미국 온라인 커뮤니티 Reddit의 한 회원이 기존 영상에 유명인의 얼굴을 입혀 가짜 콘텐츠를 게재한 데서 유래되었다. 이후 온라인 커뮤니티와 SNS를 중심으로 급속히 확산된 딥페이크 콘텐츠는 최근 DeepFaceLab, Faceswap 등 오픈 소스 형태의 영상 합성 제작 프로그램이 배포되면서 더욱 성행하고 있다.",
+      "DefinitionSourceURL": "file:///C:/Users/ADMIN/Downloads/2019%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%9D%B4%EC%8A%88&amp;%ED%8A%B8%EB%A0%8C%ED%8A%B8(12%EC%9B%94%ED%98%B8)_[%ED%8A%B8%EB%9E%9C%EB%93%9C%EB%A6%AC%ED%8F%AC%ED%8A%B8]%EB%94%A5%ED%8E%98%EC%9D%B4%ED%81%AC%20%EA%B8%B0%EC%88%A0%EC%9D%98%20%EB%B9%9B%EA%B3%BC%20%EA%B7%B8%EB%A6%BC%EC%9E%90%20(1).pdf"
+    },
+    {
+      "CN": "167",
+      "Title": "블록체인",
+      "RelatedKeywords": "[Blockchain, Hashing, Smart Contract, Cryptocurrency, Bitcoin, Smart contracts, Encryption, Distributed ledger technology, Shared Ledger, Digital Ledger]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202402150005&fileSn=5",
+      "PublDate": "20240215",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=167",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=167",
+      "Definition": "블록체인(영어: block chain, blockchain)은 관리 대상 데이터를 '블록'이라고 하는 소규모 데이터들이 P2P 방식을 기반으로 생성된 체인 형태의 연결고리 기반 분산 데이터 저장 환경에 저장하여 누구라도 임의로 수정할 수 없고 누구나 변경의 결과를 열람할 수 있는 분산 컴퓨팅 기술 기반의 원장 관리 기술이다. 이는 근본적으로 분산 데이터 저장기술의 한 형태로, 지속적으로 변경되는 데이터를 모든 참여 노드에 기록한 변경 리스트로서 분산 노드의 운영자에 의한 임의 조작이 불가능하도록 고안되었다. 블록체인 기술은 비트코인을 비롯한 대부분의 암호화폐 거래에 사용된다. 암호화폐의 거래과정은 탈중앙화된 전자장부에 쓰이기 때문에 블록체인 소프트웨어를 실행하는 많은 사용자들의 각 컴퓨터에서 서버가 운영되어, 중앙에 존재하는 은행 없이 개인 간의 자유로운 거래가 가능하다.",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8"
+    },
+    {
+      "CN": "164",
+      "Title": "스마트 시티",
+      "RelatedKeywords": "[Smart City, Ubiquitarius, Big Data, Blockchain, Smart Grid, Living LAB, Smart Building, Smart Mobility, Urban Transportation System, AI, Internet of Things, 5G]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202401190004&fileSn=5",
+      "PublDate": "20240119",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=164",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=164",
+      "Definition": "스마트시티(Smart city) 또는 스마트 도시는 다양한 유형의 전자 데이터 수집 센서를 사용하여 자산과 자원을 효율적으로 관리하는 데 필요한 정보를 제공하는 도시 지역이다. 여기에는 시민, 장치, 자산으로부터 수집하여, 교통 및 운송 시스템, 발전소, 급수 네트워크, 폐기물 관리, 법 집행, 정보 시스템, 학교, 도서관, 병원 및 기타 커뮤니티 서비스를 모니터링하거나 관리하기 위해 처리하거나 분석되는 데이터가 포함된다. 스마트 시티의 개념은 도시 운영 및 서비스의 효율성을 최적화하고 시민들과의 연결을 위해 네트워크에 연결된 다양한 물리적 장치이다.",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8_%EC%8B%9C%ED%8B%B0"
+    },
+    {
+      "CN": "159",
+      "Title": "로봇",
+      "RelatedKeywords": "[Robotics, Automated machinery, Automation Technology, Artificial Intelligence, Humanoid, Deep Learning, Mobile Robots, Automatic Control Engineering, Robotics Manufacturing, Machine learning, Sensor, SLAM, Localization, Rational Functions]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202312290003&fileSn=4",
+      "PublDate": "20231226",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=159",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=159",
+      "Definition": "로봇(문화어: 로보트, 영어: robot)은 다양한 작업을 자동으로 수행하도록 프로그래밍된 기계장치다. 프로그램으로 작동하고(programmable), 사람이 직접 수행할 수 없는 어렵고 복잡하며 위험한 일련의 작업들(complex series of actions)을 사람 대신 실행하는 기계적 장치다. 자동차 생산 라인 등 제조공장에서 조립, 용접, 핸들링(handling) 등을 수행하는 자동화된 로봇을 산업용 로봇이라 하고, 환경을 인식해 스스로 판단하는 기능을 가진 로봇을 '지능형 로봇'이라 부른다. 학교 등의 급식실에서 사람 대신 조리 업무를 수행하는 푸드테크 로봇(급식로봇)도 있다. 사람과 닮은 모습을 한 로봇을 '안드로이드'라 부른다. 다른 뜻은 형태가 있으며, 자신이 생각할 수 있는 능력을 가진 기계라고도 한다. 인공의 동력을 사용하는 로봇은 사람 대신 또는 사람과 함께 일을 한다. 통상 로봇은 제작자가 계획한 일을 하도록 설계된다. '로봇'이란 용어는 체코슬로바키아의 극작가 카렐 차페크(Karel Čapek)가 1920년에 발표한 희곡 \"R.U.R\"에 쓴 것이 퍼져 일반적으로 사용되게 되었다. 또한 로봇의 어원은 체코어로 \"노동\", \"노예\", \"힘들고 단조로운 일\"을 의미하는 robota이다. 우리가 아는 장난감 로봇은 사실 로봇이 아니라 장난감이다. 수동으로 움직이기 때문이다.",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%B4%87"
+    },
+    {
+      "CN": "145",
+      "Title": "디지털 트윈",
+      "RelatedKeywords": "[Digital Twin, Metaverse, AR, VR, Simulation, Sensor, IoT, CAD, GIS, BIM, PLM, Smart Factory, Smart City, Industry 4.0, AI]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202307070006&fileSn=4",
+      "PublDate": "20230707",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=145",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=145",
+      "Definition": "<b>디지털 트윈</b>(digital twin)은 2002년에 미국 마이클 그리브스 박사가 제품생애주기관리(PLM)의 이상적 모델로 설명하면서 등장하였다. 이 개념에 대해 NASA의 존 비커스 박사가 디지털 트윈으로 명명하고, 2010년 NASA가 우주 탐사 기술 개발 로드맵에 디지털 트윈을 반영하면서 우주 산업에서 계속 쓰여 왔다. 이후 GE가 자사의 엔진, 터빈 등 제품에 디지털 트윈 모델을 적용하면서 널리 알려져 미국 제너럴 일렉트릭(GE)가 디지털 트윈의 원조로 혼동하는 상황이 빚어지기도 했다. 컴퓨터에 현실 속 사물의 쌍둥이를 만들고, 현실에서 발생할 수 있는 상황을 컴퓨터로 시뮬레이션함으로써 결과를 미리 예측하는 기술이다. 디지털 트윈은 제조업뿐 아니라 다양한 산업·사회 문제를 해결할 수 있는 기술로 주목 받는다. 그리고 기본적으로는 다양한 물리적 시스템의 구조, 맥락, 작동을 나타내는 데이터와 정보의 조합으로, 과거와 현재의 운용 상태를 이해하고 미래를 예측할 수 있는 인터페이스라고 할 수 있다. 물리적 세계를 최적화하기 위해 사용될 수 있는 강력한 디지털 객체로서, 운용 성능과 사업 프로세스를 대폭 개선할 수 있다.",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/디지털 트윈"
+    },
+    {
+      "CN": "139",
+      "Title": "AI 윤리",
+      "RelatedKeywords": "[AI ethics, Robot ethics, Algorithm Transparency, Privacy-Preseving, Fair Learning, Autonomy, Humanity]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202305120005&fileSn=4",
+      "PublDate": "20230512",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=139",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=139",
+      "Definition": "인공 지능의 윤리는 인공 지능 시스템에 특정한 기술 윤리의 한 분야다 . 기계 윤리 에서는 인간이 인공지능 시스템을 설계, 제작, 사용, 취급함에 있어 도덕적 행동에 대한 관심과 기계의 행동에 대한 관심으로 나누어지기도 한다 . 초지능 AI로 인한 특이점 문제도 포함된다 .",
+      "DefinitionSourceURL": "https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence"
+    },
+    {
+      "CN": "134",
+      "Title": "메타버스",
+      "RelatedKeywords": "[VR, AR, Digital Twin, Telepresence, Teleobotics, Flow experience, Brain–computer interface, Blockchain, Roblox, Avatar]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202303170003&fileSn=4",
+      "PublDate": "20230317",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=134",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=134",
+      "Definition": "<b>메타버스</b>(metaverse) 또는 <b>확장 가상 세계</b>는 가상, 초월을 의미하는 '메타'(meta)와 세계, 우주를 의미하는 '유니버스'(universe)를 합성한 신조어다. '가상 우주'라고 번역하기도 했다. 1992년 출간한 닐 스티븐슨의 소설 '스노 크래시'에서 가장 먼저 사용했다. 이는 3차원에서 실제 생활과 법적으로 인정한 활동인 직업, 금융, 학습 등이 연결된 가상 세계를 뜻한다. 가상현실, 증강현실의 상위 개념으로서 현실을 디지털 기반의 가상 세계로 확장해 <b>가상 공간에서 모든 활동을 할 수 있게 만드는 시스템</b>이다. 구체적으로 정치와 경제, 사회, 문화 전반적 측면에서 현실과 비현실이 공존하는 생활형, 게임형 가상 세계라는 의미로 폭넓게 사용한다.",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/메타버스"
+    },
+    {
+      "CN": "128",
+      "Title": "생성형 인공지능",
+      "RelatedKeywords": "[생성 AI, Deep Learning, 생성적 적대 신경망, GAN, ChatGPT, DALL-E, OpenAI, NovelAI, Reinforcement Learning from Human Feedback, RLHF, Generative model]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202301200004&fileSn=4",
+      "PublDate": "20230120",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=128",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=128",
+      "Definition": "텍스트, 오디오, 이미지 등의 기존 콘텐츠를 활용하여 유사한 콘텐츠를 새로 만들어내는 인공지능(AI) 기술. 생성형 인공지능은 단순히 콘텐츠의 패턴을 학습하여 추론 결과로 새로운 콘텐츠를 만들어내는 것을 넘어 콘텐츠의 생성자와 만들어진 콘텐츠를 평가하는 판별자가 끊임없이 서로 대립하고 경쟁하며 새로운 콘텐츠를 생성해내는 기술이다. 특히, 이미지 분야에서는 특정 작가의 화풍을 모사한 그림으로 사진을 재생성하거나 가짜 인간 얼굴을 무제한으로 생성하여 쇼핑, 영화 등의 산업에서 활용한다. 음성 분야에서는 특정 장르의 음악을 작곡하거나 특정 노래를 원하는 가수의 음색으로 재생성하는 등으로 활용한다.",
+      "DefinitionSourceURL": "https://terms.naver.com/entry.naver?docId=6649737&amp;cid=42346&amp;categoryId=42346"
+    },
+    {
+      "CN": "127",
+      "Title": "자율주행",
+      "RelatedKeywords": "[Autonomous driving, SLAM, Cruise Control, HDP, YOLO, LiDAR, RADAR, V2X, ADAS, 딥러닝, 자동차공학]",
+      "ThumbnailURL": "https://scienceon.kisti.re.kr/cm/file/fileDownload.do?atchFileId=202301060004&fileSn=5",
+      "PublDate": "20230106",
+      "ContentURL": "https://scienceon.kisti.re.kr/aiq/issue/selectIssueReportView.do?searchIssueRptNo=127",
+      "PdfURL": "https://scienceon.kisti.re.kr/aiq/issue/downloadPDF.do?searchIssueRptNo=127",
+      "Definition": "<p><b>무인자동차</b>(無人自動車, <span>영어: </span><span lang=\"en\">self-driving car, autonomous vehicle, <b>AV</b>, driverless car, robo-car</span>) 또는 <b>자율주행차</b>는 운전자의 조작 없이 스스로 주행할 수 있는 자동차이다. 무인자동차는 레이더, LIDAR (light detection and ranging), GPS, 카메라로 주위의 환경을 인식하여 목적지를 지정하는 것만으로 자율적으로 주행한다. 이미 실용화되고 있는 무인자동차로는 이스라엘 군에서 운용되는, 미리 설정된 경로를 순찰하는 무인 차량과 국외 광산이나 건설 현장 등에서 운용되고 있는 덤프 트럭 등의 무인 운행 시스템 등이 있다. </p>",
+      "DefinitionSourceURL": "https://ko.wikipedia.org/wiki/무인 자동차"
+    }
+  ],
+  "total_count": "18",
+  "display_count": "18"
+}

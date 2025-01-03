@@ -1,0 +1,501 @@
+2025-01-03 11:07:45,210 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-03 11:07:46,997 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:48,254 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:49,420 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:50,630 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:51,828 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:53,106 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:54,299 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:55,493 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:56,672 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:57,776 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:07:58,964 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:00,283 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:01,535 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:02,862 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:04,131 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:05,527 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:06,765 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:08,478 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:09,656 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:10,756 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:12,174 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:14,119 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:15,277 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:16,454 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:17,575 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:18,783 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:19,860 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:21,054 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:22,201 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:23,417 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:24,672 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:25,998 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:27,375 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:28,927 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:30,243 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:31,698 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:32,994 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:34,159 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:35,459 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:37,010 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:38,459 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:39,972 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:40,459 - INFO - Loading faiss with AVX2 support.
+2025-01-03 11:08:40,492 - INFO - Successfully loaded faiss with AVX2 support.
+2025-01-03 11:08:40,572 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 11:08:40,572 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 11:08:40,625 - INFO - Installing plugin inference into Pinecone
+2025-01-03 11:08:42,594 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 11:08:42,594 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 11:08:42,594 - INFO - Installing plugin inference into Pinecone
+2025-01-03 11:08:45,485 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:46,699 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:47,831 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:49,106 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:50,916 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:52,277 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:53,567 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:54,780 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:56,191 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:57,440 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:08:58,722 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:00,252 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:02,013 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:03,448 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:04,756 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:06,137 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:07,417 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:08,991 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:10,340 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:11,497 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:09:12,651 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:06,411 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-03 11:10:07,545 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:08,738 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:10,150 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:11,348 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:12,494 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:13,698 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:15,053 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:16,254 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:17,648 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:18,822 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:19,980 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:21,083 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:22,143 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:23,221 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:24,351 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:25,478 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:27,206 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:28,334 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:29,546 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:30,707 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:31,769 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:33,669 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:34,917 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:36,088 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:37,207 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:38,286 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:39,448 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:40,573 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:41,978 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:43,175 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:44,396 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:45,589 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:46,709 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:47,861 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:49,367 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:50,638 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:51,761 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:52,994 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:54,126 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:55,226 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:56,414 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:57,532 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:10:57,849 - INFO - Loading faiss with AVX2 support.
+2025-01-03 11:10:57,878 - INFO - Successfully loaded faiss with AVX2 support.
+2025-01-03 11:10:57,927 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 11:10:57,927 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 11:10:57,944 - INFO - Installing plugin inference into Pinecone
+2025-01-03 11:11:08,693 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 11:11:08,693 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 11:11:08,693 - INFO - Installing plugin inference into Pinecone
+2025-01-03 11:11:11,731 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:13,382 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:14,615 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:15,929 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:17,114 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:18,484 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:20,117 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:21,456 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:23,407 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:24,610 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:25,708 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:26,928 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:28,094 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:29,310 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:30,540 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:31,651 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:32,811 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:34,000 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:35,405 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:36,626 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:11:38,182 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:24,733 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-03 11:21:26,164 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:27,997 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:29,314 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:30,467 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:31,888 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:33,083 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:34,214 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:35,361 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:36,766 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:38,241 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:39,726 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:40,889 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:42,051 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:43,198 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:44,329 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:45,768 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:46,977 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:48,130 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:49,277 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:50,406 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:51,631 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:53,894 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:55,253 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:56,448 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:57,593 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:21:58,842 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:00,022 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:01,151 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:02,638 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:03,913 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:04,995 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:06,127 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:07,340 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:08,552 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:09,683 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:10,877 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:12,300 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:13,555 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:14,662 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:15,744 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:16,874 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:18,084 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:18,410 - INFO - Loading faiss with AVX2 support.
+2025-01-03 11:22:18,441 - INFO - Successfully loaded faiss with AVX2 support.
+2025-01-03 11:22:18,489 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 11:22:18,489 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 11:22:18,521 - INFO - Installing plugin inference into Pinecone
+2025-01-03 11:22:20,010 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 11:22:20,010 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 11:22:20,010 - INFO - Installing plugin inference into Pinecone
+2025-01-03 11:22:22,367 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:23,513 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:25,016 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:26,263 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:27,538 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:28,654 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:29,751 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:30,882 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:32,044 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:33,160 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:34,327 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:35,425 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:36,681 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:37,797 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:39,045 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:40,335 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:41,503 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:42,677 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:43,957 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:45,134 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:22:46,233 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:04,067 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-03 11:30:29,751 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:31,041 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:32,230 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:33,405 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:34,629 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:36,002 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:37,282 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:38,528 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:39,746 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:41,983 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:43,449 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:44,733 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:46,060 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:47,183 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:48,407 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:49,582 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:50,849 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:52,028 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:53,520 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:55,312 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:56,517 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:30:58,376 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:00,197 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:01,364 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:02,516 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:03,705 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:05,071 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:06,450 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:07,851 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:09,068 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:10,236 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:11,418 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:12,804 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:13,986 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:15,321 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:16,528 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:18,357 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:19,537 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:20,662 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:21,840 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:22,995 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:24,174 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:24,513 - INFO - Loading faiss with AVX2 support.
+2025-01-03 11:31:24,546 - INFO - Successfully loaded faiss with AVX2 support.
+2025-01-03 11:31:24,602 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 11:31:24,602 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 11:31:24,620 - INFO - Installing plugin inference into Pinecone
+2025-01-03 11:31:26,187 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 11:31:26,188 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 11:31:26,188 - INFO - Installing plugin inference into Pinecone
+2025-01-03 11:31:28,779 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:30,013 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:31,184 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:32,496 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:33,709 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:34,946 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:36,224 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:38,038 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:39,533 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:40,787 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:42,033 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:43,118 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:44,480 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:45,962 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:47,373 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:48,561 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:49,738 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:50,897 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:52,158 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:53,419 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:31:54,654 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:33:54,475 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:33:59,539 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 11:34:38,606 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:34:40,430 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 11:36:17,652 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:36:23,334 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 11:37:12,025 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 11:37:14,628 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 11:39:37,182 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\server.py:68> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\main.py", line 579, in run
+    server.run()
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\server.py", line 66, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Program Files\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\Python312\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Program Files\Python312\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Program Files\Python312\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\server.py", line 69, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\server.py", line 330, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-01-03 11:39:37,191 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<LifespanOn.main() running at C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\lifespan\on.py:86> wait_for=<Future pending cb=[Task.__wakeup()]>>
+2025-01-03 12:04:20,392 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-03 12:04:21,746 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:23,260 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:25,095 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:26,647 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:27,804 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:29,643 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:30,890 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:32,336 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:33,636 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:34,922 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:36,119 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:37,496 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:38,715 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:40,171 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:41,311 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:42,440 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:43,674 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:44,803 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:46,069 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:47,207 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:48,354 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:50,179 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:51,373 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:52,603 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:53,767 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:54,911 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:55,995 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:57,212 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:58,361 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:04:59,562 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:00,794 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:02,152 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:03,360 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:04,495 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:05,629 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:06,803 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:07,956 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:09,075 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:10,205 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:11,325 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:12,541 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:13,756 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:14,136 - INFO - Loading faiss with AVX2 support.
+2025-01-03 12:05:14,168 - INFO - Successfully loaded faiss with AVX2 support.
+2025-01-03 12:05:57,514 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-03 12:05:58,713 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:05:59,953 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:01,420 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:02,541 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:03,822 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:05,581 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:06,884 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:08,203 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:09,612 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:10,844 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:12,128 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:13,378 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:15,127 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:16,411 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:17,665 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:18,916 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:20,169 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:21,405 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:22,567 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:23,856 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:25,226 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:27,439 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:29,305 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:30,572 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:31,706 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:32,881 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:34,248 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:35,451 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:36,586 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:37,739 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:39,096 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:40,588 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:41,806 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:42,873 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:44,257 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:46,049 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:47,259 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:48,405 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:49,535 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:50,651 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:51,877 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:53,234 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:53,548 - INFO - Loading faiss with AVX2 support.
+2025-01-03 12:06:53,580 - INFO - Successfully loaded faiss with AVX2 support.
+2025-01-03 12:06:53,646 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 12:06:53,646 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 12:06:53,721 - INFO - Installing plugin inference into Pinecone
+2025-01-03 12:06:55,108 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\SSAFY\\Documents\\2w\\venv\\Lib\\site-packages\\pinecone_plugins'])
+2025-01-03 12:06:55,108 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-01-03 12:06:55,108 - INFO - Installing plugin inference into Pinecone
+2025-01-03 12:06:57,968 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:06:59,115 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:00,341 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:01,489 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:02,624 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:03,770 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:04,901 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:06,064 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:07,226 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:08,425 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:09,668 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:10,813 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:11,896 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:13,154 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:14,274 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:15,438 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:16,612 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:17,777 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:19,128 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:20,225 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:21,378 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:44,772 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:46,882 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:07:56,290 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:07:58,151 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:08:08,725 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:08:10,932 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:08:27,311 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:08:29,558 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:08:53,860 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:08:55,315 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:09:14,027 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:09:16,871 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:09:20,659 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:09:22,407 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:10:04,480 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:10:06,757 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:10:28,411 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:10:31,067 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:10:49,829 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:10:52,740 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:11:17,058 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/embeddings "HTTP/1.1 200 OK"
+2025-01-03 12:11:20,081 - INFO - HTTP Request: POST https://api.upstage.ai/v1/solar/chat/completions "HTTP/1.1 200 OK"
+2025-01-03 12:13:09,641 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\server.py:68> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\main.py", line 579, in run
+    server.run()
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\server.py", line 66, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Program Files\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\Python312\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Program Files\Python312\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Program Files\Python312\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\server.py", line 69, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\SSAFY\Documents\2w\venv\Lib\site-packages\uvicorn\server.py", line 330, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
